@@ -1,0 +1,21 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.page {
+	height: 100%;
+	padding: 20px;
+}
+
+.first-el {
+	background-color: #515151;
+	color: #710000;
+}
+
+.second-el {
+	background-color: rgb(2, 171, 171);
+	color: rgb(11, 75, 0);
+}
